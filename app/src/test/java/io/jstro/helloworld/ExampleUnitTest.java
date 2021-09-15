@@ -1,4 +1,4 @@
-package com.application.lab1;
+package io.jstro.helloworld;
 
 import org.junit.Test;
 
